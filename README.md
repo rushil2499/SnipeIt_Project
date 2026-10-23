@@ -24,5 +24,4 @@ An end-to-end automation test suite built with **C#**, **.NET**, **Microsoft Pla
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR_REPO_URL>
-cd SnipeIt_Project
+git clone https://github.com/rushil2499/SnipeIt_Project.git
