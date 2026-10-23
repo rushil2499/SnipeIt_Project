@@ -9,7 +9,7 @@ An end-to-end automation test suite built with **C#**, **.NET**, **Microsoft Pla
 - **Page Object Model (POM):** Encapsulates page locators, asynchronous Select2 dropdown handlers, and AJAX-backed table interactions away from test logic.
 - **Dynamic Test Data:** Auto-generates unique, timestamped asset tags to avoid collisions in shared demo environments.
 - **Resilient Synchronization:** Implements Playwright web-first assertions and dynamic wait states rather than arbitrary sleeps, gracefully handling asynchronous Bootstrap Table renders.
-- **Observability & Diagnostics:** Includes automated full-page screenshot capture and comprehensive Playwright Tracing (`.zip` containing network calls, console logs, and DOM snapshots) on test failures.
+- **Observability & Diagnostics:** Includes automated full-page screenshot capture and comprehensive Playwright Tracing (.zip containing network calls, console logs, and DOM snapshots) on test failures.
 
 ---
 
@@ -24,4 +24,5 @@ An end-to-end automation test suite built with **C#**, **.NET**, **Microsoft Pla
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/rushil2499/SnipeIt_Project.git
+git clone [https://github.com/rushil2499/SnipeIt_Project.git](https://github.com/rushil2499/SnipeIt_Project.git)
+cd SnipeIt_Project
